@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Phong",
+    "last_name": "Nguyen",
+    "age": 29,
+    "married": false
+  },
+  {
+    "first_name": "Sang",
+    "last_name": "Nguyen",
+    "age": 35,
+    "married": true
+  },
+  {
+    "first_name": "Viet",
+    "last_name": "Le",
+    "age": 21,
+    "married": false
+  },
+  {
+    "first_name": "Loc",
+    "last_name": "Nguyen",
+    "age": 21,
+    "married": false
+  }
+]
